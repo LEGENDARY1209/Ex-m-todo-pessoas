@@ -366,6 +366,6 @@
     echo "<br><br>";
 
     $p33->MostrarPessoa();
-    echo "<br><br>";
-    
+
+
 ?>
